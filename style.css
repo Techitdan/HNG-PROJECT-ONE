@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    color: crimson;
+    padding: 20px;
+    background-color: black;
+}
+
+h1{
+    margin:10px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+h2{
+    margin: 10px;
+}
+
+a{
+   text-decoration: none;
+   background-color:crimson;
+    padding: 3px 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
